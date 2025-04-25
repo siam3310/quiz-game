@@ -120,9 +120,7 @@ export default function GameOver () {
 							<BiArrowBack color='#0f172a' className='text-xl mr-1 inline-block' title='' />
 							Go back
 						</Link>
-						<button onClick={() => document.getElementById('newGameDialog').showModal()} className='btn-primary px-5 md:px-10 py-3 uppercase tracking-widest rounded-md bg-blue-500 text-white'>
-							{queries.infinitymode || win !== false ? 'Play Again' : 'Try Again'}
-						</button>
+
 					</div>
 				</div>
 			</dialog>
