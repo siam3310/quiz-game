@@ -1,0 +1,7 @@
+
+> quiz-app@0.1.0 dev
+> next dev
+
+[33mwarn[39m  - Port 3000 is in use, trying 3001 instead.
+[32mready[39m - started server on 0.0.0.0:3001, url: http://localhost:3001
+[36minfo[39m  - Loaded env from /app/source_code/.env.local
