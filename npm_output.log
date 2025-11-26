@@ -1,0 +1,6 @@
+
+> quiz-app@0.1.0 dev
+> next dev
+
+[32mready[39m - started server on 0.0.0.0:3000, url: http://localhost:3000
+[36minfo[39m  - Loaded env from /app/source_code/.env.local
